@@ -5,6 +5,9 @@ export const todoSlice = createSlice({
    initialState: {
       list: [],
       filter: "all"
+   },
+   reducers:{
+      
    }
 })
 
